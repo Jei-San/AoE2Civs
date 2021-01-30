@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\View\InfoCivPage.xaml.g.cs
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.AssemblyInfo.cs
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\bin\Debug\netstandard2.0\AoE2Civs.deps.json
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\bin\Debug\netstandard2.0\AoE2Civs.dll
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\bin\Debug\netstandard2.0\ref\AoE2Civs.dll
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\bin\Debug\netstandard2.0\AoE2Civs.pdb
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.dll
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\ref\AoE2Civs.dll
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\obj\Debug\netstandard2.0\AoE2Civs.pdb
