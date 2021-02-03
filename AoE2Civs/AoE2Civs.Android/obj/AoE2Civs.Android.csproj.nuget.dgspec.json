@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj": {}
+    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj": {
+    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
+        "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
         "projectName": "AoE2Civs.Android",
-        "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
+        "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\obj\\",
+        "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
-                "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj"
+              "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
+                "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
+    "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
+        "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
         "projectName": "AoE2Civs",
-        "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
+        "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\obj\\",
+        "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

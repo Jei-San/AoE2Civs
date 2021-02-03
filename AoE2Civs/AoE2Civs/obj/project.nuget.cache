@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iwGlwI0P6jjghMQn0LXOeKIk4zz6pRX/fDQ4di4CpLyBYjEsmrjhT9zVnPE+VO7Zkzqi9Gf6ENjVd3VvyMchWA==",
+  "dgSpecHash": "Wq57yEdFc9bjYwITDUVaAUpS//8CcsiHX+KKUdLz6Ou7BSUNJ1OCxavDHDmdindYd/kJyBYsoYkR2zwMi1WBDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
+  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

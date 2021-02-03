@@ -1573,11 +1573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
       "projectName": "AoE2Civs.iOS",
-      "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
+      "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\obj\\",
+      "outputPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1598,8 +1598,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
-              "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj"
+            "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj": {
+              "projectPath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.csproj"
             }
           }
         }

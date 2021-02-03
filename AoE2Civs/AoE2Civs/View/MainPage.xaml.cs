@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace AoE2Civs
@@ -20,6 +19,9 @@ namespace AoE2Civs
             InitializeComponent();
 
             viewModel.Navigation = Navigation;
+
+            SearchEntry.TextChanged += SearchEntry_TextChanged;
+            CivList.ItemTapped += async (s, e) => { await UserList_ItemTappedAsync(e); };
 
             BindingContext = viewModel;
         }

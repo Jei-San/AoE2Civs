@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SQQu4d8XVVEIJg4/gFwYpIBk8Tak8+AtPeKv/IjZhvafeBqPkooE8UrZpz2McvoucmdBfW6qbFt/mv3sHKD/xA==",
+  "dgSpecHash": "Nxuy3iiA8SKueQvEsgdKNbtKJZ18lgRabbVxd70e3BaVxcVvKVAZhKGQgpoxGzGBRbTiL1V+Fm7kuvdRL9u4qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
+  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.iOS\\AoE2Civs.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",

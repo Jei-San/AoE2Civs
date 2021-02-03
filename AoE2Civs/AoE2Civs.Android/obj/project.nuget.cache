@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQTO2qMu4gv8PmSIHiMZJd1yR7eNtWIu6+hKfQsmXVdInVeh7I7Jor/4H0EgfPHw4EtLO/aa2aySLjr2Okz/Hw==",
+  "dgSpecHash": "Ff0LcbIP2fWECImsAv6Q1JqzrhoWsD/G6YCdjaRzMxMdP9x7V7OSRhC874fFC87yHp7g8MqKB4AinpqsOQKm7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
+  "projectFilePath": "C:\\Users\\jason\\source\\repos\\AoE2Civs\\AoE2Civs\\AoE2Civs\\AoE2Civs.Android\\AoE2Civs.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jason\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\jason\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",

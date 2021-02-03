@@ -7,6 +7,15 @@
              x:Class="AoE2Civs.MainPage">
     <ScrollView>
         <StackLayout>
+            <Entry
+                x:Name="SearchEntry"
+                Placeholder="Search by name"
+                BackgroundColor="#31FFFFFF"
+                PlaceholderColor="Black"
+                Text="{Binding Search}"
+                IsVisible="{Binding IsLoaded}"
+                ClearButtonVisibility="WhileEditing"
+                />
             <ListView x:Name="CivList" SelectionMode="None" ItemsSource="{Binding Civilizations}" RowHeight="50" IsVisible="{Binding IsLoaded}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
