@@ -1002,3 +1002,4 @@ C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\AoE2Civs.Android\obj\Debu
 C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\AoE2Civs.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\AoE2Civs.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\AoE2Civs.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\jason\source\repos\AoE2Civs\AoE2Civs\AoE2Civs\AoE2Civs.Android\obj\Debug\90\res\drawable\aztecs.png

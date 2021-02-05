@@ -21,6 +21,7 @@ namespace AoE2Civs.ViewModel
         public string Search { get; set; }
         public string Message { get; set; }
         public string CivInfo { get; set; }
+        public string CivImage { get; set; }
         public bool IsError { get; set; }
         public bool IsLoaded { get; set; }
 
@@ -46,7 +47,14 @@ namespace AoE2Civs.ViewModel
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
                 Root result = JsonConvert.DeserializeObject<Root>(response.Content);
+                var NewCivList = new ObservableCollection<Civilization>();
                 Civilizations = new ObservableCollection<Civilization>(result.civilizations);
+                foreach(var civ in Civilizations)
+                {
+                    civ.imagePath = AssignedPicture(civ.name);
+                    NewCivList.Add(civ);
+                }
+                Civilizations = NewCivList;
                 civList = new ObservableCollection<Civilization>(result.civilizations);
                 IsLoaded = true;
                 IsError = false;
@@ -79,6 +87,20 @@ namespace AoE2Civs.ViewModel
             if (civList != null)
                 civList.Clear();
         }
+        public string AssignedPicture(string civName)
+        {
+            var CivImage = "";
+            switch(civName)
+            {
+               case "Aztecs":
+                    CivImage = "Aztecs.png";
+                    break;
+               case "Mayans":
+                    CivImage = "Mayans.png";
+                   break;
+            }
+            return CivImage;
+        } 
         public async Task TapCommand(Civilization itemTapped)
         {
             User = itemTapped;

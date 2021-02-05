@@ -20,11 +20,20 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-
-                            <Label
-                                 Text="{Binding name}"
-                                 FontAttributes="Bold" />
-
+                            <Grid HeightRequest="120" >
+                               <Grid.ColumnDefinitions>
+                                  <ColumnDefinition Width="2*" />
+                                  <ColumnDefinition Width="8*" />
+                               </Grid.ColumnDefinitions>
+                               <Image Grid.Column="0"
+                                Source="{Binding imagePath}"
+                                Aspect="AspectFit"
+                                HeightRequest="50"
+                                WidthRequest="50"/>
+                               <Label Grid.Column="1"
+                                Text="{Binding name}"
+                                FontAttributes="Bold"/>
+                            </Grid>
                         </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>

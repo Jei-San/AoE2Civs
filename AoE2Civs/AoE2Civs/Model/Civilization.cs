@@ -8,6 +8,7 @@ namespace AoE2Civs.Model
     {
         public int id { get; set; }
         public string name { get; set; }
+        public string imagePath { get; set; }
         public string expansion { get; set; }
         public string army_type { get; set; }
         public List<string> unique_unit { get; set; }
